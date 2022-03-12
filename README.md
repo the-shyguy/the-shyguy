@@ -9,7 +9,7 @@
 []
 - ⚡ Fun fact: ...
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=the-shyguy&show_icons=true&theme=tokyonight" />
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=the-shyguy&show_icons=true&theme=tokyonight" />
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-shyguy&layout=compact" />
 
 ### Programming Languages:
