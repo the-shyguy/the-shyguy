@@ -1,8 +1,8 @@
-
 # Hi, I'm Rohit 👋
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=the-shyguy)
 
+<img align="right" width="30%" src="https://c.tenor.com/cpkRSSElsQAAAAAC/silent-voice-walk.gif" />
 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31jo4egarug4nazkg5magdpcjbnu&count=1)
   
